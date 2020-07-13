@@ -1,4 +1,4 @@
-# helloworld
+# VueWeatherApp
 
 > A Vue.js project
 
